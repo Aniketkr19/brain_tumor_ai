@@ -1,0 +1,4 @@
+dataset/
+brain_model.pth
+__pycache__/
+*.pyc
