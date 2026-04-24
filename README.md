@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection using Deep Learning
 
-A deep learning project that detects brain tumors from MRI images using a Convolutional Neural Network (CNN).  
+A deep learning project that detects brain tumors from MRI images using a Convolutional Neural Network (CNN).
 The model is trained on MRI scans and predicts whether the image contains a **tumor** or is **normal**.
 
 This project also includes a simple web interface where users can upload MRI images and get predictions.
@@ -9,22 +9,22 @@ This project also includes a simple web interface where users can upload MRI ima
 
 # 🚀 Features
 
-- Brain MRI image classification
-- Tumor vs Normal detection
-- Deep Learning model using CNN
-- Web interface for easy predictions
-- Fast model inference
+* Brain MRI image classification
+* Tumor vs Normal detection
+* Deep Learning model using CNN
+* Web interface for easy predictions
+* Fast model inference
 
 ---
 
 # 🛠 Tech Stack
 
-- Python
-- PyTorch
-- Streamlit
-- NumPy
-- Torchvision
-- OpenCV
+* Python
+* PyTorch
+* Streamlit
+* NumPy
+* Torchvision
+* OpenCV
 
 ---
 
@@ -50,91 +50,69 @@ The project uses a **Convolutional Neural Network (CNN)** implemented using **Py
 
 The model learns patterns from MRI images and classifies them into:
 
-- Tumor
-- Normal
-
-Training is performed using image datasets with labeled MRI scans.
+* Tumor
+* Normal
 
 ---
 
 # ⚙️ Installation
 
-Clone the repository:
-
 ```bash
 git clone https://github.com/YOUR_USERNAME/brain-tumor-ai.git
-```
-
-Move into the project folder:
-
-```bash
 cd brain-tumor-ai
-```
-
-Install required dependencies:
-
-```bash
 pip install -r requirements.txt
-```
-
----
-
-# 🏋️ Training the Model
-
-To train the deep learning model run:
-
-```bash
-python train.py
-```
-
-After training finishes, the trained model will be saved as:
-
-```
-brain_model.pth
 ```
 
 ---
 
 # 🌐 Run the Web Application
 
-This project includes a simple web interface built with Streamlit.
-
-Run the application:
-
 ```bash
 python -m streamlit run app.py
 ```
 
-Open the following link in your browser:
+Open in browser:
 
 ```
 http://localhost:8501
 ```
 
-Upload an MRI image and the system will predict whether a **tumor is present or not**.
-
 ---
 
-# 📊 Dataset
+# 📸 Screenshots (Working Model Output)
 
-The dataset contains MRI images of the human brain classified into:
+## 1️⃣ Upload MRI & UI
 
-- Tumor
-- Normal
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20153307.png)
 
-The dataset is used to train the deep learning model to recognize tumor patterns.
+## 2️⃣ MRI Preview
 
-Note: The dataset is not uploaded to GitHub due to its large size.
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20153316.png)
+
+## 3️⃣ Normal Brain Result
+
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20153431.png)
+
+## 4️⃣ Upload Tumor MRI
+
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20153422.png)
+
+## 5️⃣ High Grade Tumor Detection
+
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20154108.png)
+
+## 6️⃣ Low Grade Tumor Detection
+
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20154121.png)
 
 ---
 
 # 📌 Future Improvements
 
-- Tumor location detection using Grad-CAM
-- Tumor segmentation
-- Improve model accuracy with larger datasets
-- Deploy the application online
-- Add medical visualization tools
+* Tumor location detection using Grad-CAM
+* Tumor segmentation
+* Improve model accuracy
+* Deploy online
 
 ---
 
@@ -142,11 +120,8 @@ Note: The dataset is not uploaded to GitHub due to its large size.
 
 **Aniket Kumar**
 
-Computer Science Engineering Student  
-Interested in Artificial Intelligence, Machine Learning, and Software Development.
-
 ---
 
 # ⭐ Support
 
-If you like this project, please consider giving it a ⭐ on GitHub.
+If you like this project, give it a ⭐ on GitHub.
