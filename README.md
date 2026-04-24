@@ -81,31 +81,33 @@ http://localhost:8501
 
 # 📸 Screenshots (Working Model Output)
 
-## 1️⃣ Upload MRI & UI
-
-![Screenshot](./Screenshot/Screenshot%202026-04-23%20153307.png)
-
-## 2️⃣ MRI Preview
-
-![Screenshot](./Screenshot/Screenshot%202026-04-23%20153316.png)
-
-## 3️⃣ Normal Brain Result
-
-![Screenshot](./Screenshot/Screenshot%202026-04-23%20153431.png)
-
-## 4️⃣ Upload Tumor MRI
-
-![Screenshot](./Screenshot/Screenshot%202026-04-23%20153422.png)
-
-## 5️⃣ High Grade Tumor Detection
+## 1️⃣ Uploaded Brain MRI
 
 ![Screenshot](./Screenshot/Screenshot%202026-04-23%20154108.png)
 
-## 6️⃣ Low Grade Tumor Detection
+## 2️⃣ Normal Brain Result
 
 ![Screenshot](./Screenshot/Screenshot%202026-04-23%20154121.png)
 
+## 3️⃣ Uploaded Brain MRI
+
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20153307.png)
+
+## 4️⃣ Low Grade Tumor Detection
+
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20153316.png)
+
+## 5️⃣ Uploaded Brain MRI
+
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20153422.png)
+
+## 6️⃣ High Grade Tumor Detection
+
+![Screenshot](./Screenshot/Screenshot%202026-04-23%20153431.png)
+
 ---
+
+
 
 # 📌 Future Improvements
 
